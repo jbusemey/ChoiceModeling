@@ -33,3 +33,10 @@
 31. bin1         fit baseline model
 32. IGT4001to4002   data from IGT task
 33. SGT4001to4002   data from SGT task
+34. 
+35. Chapter 11 programs
+36. 
+37. MaxLikeQuant4.m  main program
+38. Lquant   fits quantum model
+39. BarkanData    empirical data
+40. MaxLikeFitsQ4.mat  parameter estimates for each person
