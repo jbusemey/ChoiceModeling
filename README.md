@@ -25,3 +25,11 @@
 23. fitMDFTs   fit multi alternative DFT
 24. simMDF     run simulations of MDFT model
 25. BuildsimMDF  used to build simMDF_mex file (machine executable for speed)
+26. f
+27. CHAPTER 8 programs
+28. c
+29. mainIGTtoSGT  main program to fit and test EVL model
+30. FitEVL1      fit EVL model
+31. bin1         fit baseline model
+32. IGT4001to4002   data from IGT task
+33. SGT4001to4002   data from SGT task
