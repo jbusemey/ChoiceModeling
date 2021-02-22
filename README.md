@@ -11,5 +11,5 @@
 9. FitMerv3 computes fit
 10. FitMerv3p computes predictions
 11. Matrices.mat payoff matrices
-12 Merv1.mat data
-13 MFit3.mat parameters fit to each person
+12. Merv1.mat data
+13. MFit3.mat parameters fit to each person
