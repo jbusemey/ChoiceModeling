@@ -1,5 +1,8 @@
 # ChoiceModeling
 
+
+Corrections for the Book are in the file called "Corrections for the Book"
+
 1. CHAPTER 4 programs
 2. 
 3. File name: Choice Model contains Bayesian Analysis Programs 
